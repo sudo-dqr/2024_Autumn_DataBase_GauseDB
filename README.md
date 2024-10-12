@@ -1,2 +1,2 @@
-# 2024_Autumn_DataBase_GauseDB-forMySQL-
-Database cloud project : HUAWEI GauseDB(forMySQL)
+# 2024_Autumn_DataBase_GauseDB(forMySQL)
+数据库课程云数据库实验：GauseDB(forMySQL)
